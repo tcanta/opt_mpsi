@@ -3,6 +3,9 @@ https://tcanta.github.io/opt_mpsi/
 https://tinyurl.com/mpsi-info
 
 tp1 :
+https://capytale2.ac-paris.fr/web/c/d19b-5570668
+https://tinyurl.com/ocaml-tp1
+
 https://notebook.basthon.fr/?kernel=ocaml&from=https://raw.githubusercontent.com/tcanta/opt_mpsi/refs/heads/main/TP01-prise_en_main.ipynb
 https://tinyurl.com/mpsi-tp1
 
