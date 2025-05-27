@@ -58,3 +58,14 @@ https://tinyurl.com/ocaml-tp06
 
 https://notebook.basthon.fr/?kernel=ocaml&from=https://raw.githubusercontent.com/tcanta/opt_mpsi/refs/heads/main/TP06-piles_files.ipynb
 https://tinyurl.com/mpsi-tp6
+
+DS2
+https://capytale2.ac-paris.fr/web/c/5204-6565971
+https://tinyurl.com/ocaml-ds2
+
+tp7:
+https://capytale2.ac-paris.fr/web/c/36ab-6782753
+https://tinyurl.com/ocaml-tp7
+
+https://notebook.basthon.fr/?kernel=ocaml&from=https://raw.githubusercontent.com/tcanta/opt_mpsi/refs/heads/main/TP07-dico-abr-hachage.ipynb
+https://tinyurl.com/mpsi-tp7
