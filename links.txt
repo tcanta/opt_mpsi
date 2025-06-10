@@ -69,3 +69,10 @@ https://tinyurl.com/ocaml-tp7
 
 https://notebook.basthon.fr/?kernel=ocaml&from=https://raw.githubusercontent.com/tcanta/opt_mpsi/refs/heads/main/TP07-dico-abr-hachage.ipynb
 https://tinyurl.com/mpsi-tp7
+
+tp8:
+https://capytale2.ac-paris.fr/web/c/04f4-6867417
+https://tinyurl.com/ocaml-tp8
+
+https://notebook.basthon.fr/?kernel=ocaml&from=https://raw.githubusercontent.com/tcanta/opt_mpsi/refs/heads/main/TP08-arbres-peigne.ipynb
+https://tinyurl.com/mpsi-tp8
